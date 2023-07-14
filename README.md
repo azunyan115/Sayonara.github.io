@@ -1,1 +1,1 @@
-# JAIST_ctf.github.io
+# Sayonara.github.io
